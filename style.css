@@ -28,7 +28,7 @@ h4 {
   display: inline;
   padding: 10px;
   font-size: 1.2em;
-  
+
 }
 
 .nav a {
@@ -40,4 +40,9 @@ a:hover {
   color: grey;
   text-decoration: none;
   cursor: pointer;
+}
+
+.about {
+  display:block;
+  padding-right:400px;
 }
