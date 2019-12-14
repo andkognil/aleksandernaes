@@ -1,0 +1,43 @@
+body {
+  font-family: "Helvetica Neue";
+  overflow-x: hidden;
+}
+
+.logo {
+  position: relative;
+  left: 100px;
+  top: 100px;
+}
+
+h1 {
+  font-size: 3.5em;
+}
+
+h4 {
+  font-size: 2em;
+}
+
+.nav {
+  display: inline-block;
+  position: relative;
+  left: 500px;
+  top: 8px;
+}
+
+.nav li {
+  display: inline;
+  padding: 10px;
+  font-size: 1.2em;
+  
+}
+
+.nav a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
